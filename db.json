@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "email": "divyam@gmail.com",
+      "password": "dumypassword",
+      "role": "Admin",
+      "team": "Team 1",
+      "id": 1
+    },
+    {
+      "email": "devraj@email.com",
+      "password": "dummypassword",
+      "role": "Editor",
+      "team": "Team 2",
+      "id": 2
+    },
+    {
+      "email": "meet@email.com",
+      "password": "dummypassword",
+      "role": "Viewer",
+      "team": "Team 3",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
